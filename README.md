@@ -53,7 +53,6 @@
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"> </code>
-  <code> <img height="50" src="https://img.icons8.com/color/48/000000/sqlite.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/mysql.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
