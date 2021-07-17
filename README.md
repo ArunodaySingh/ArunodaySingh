@@ -48,8 +48,8 @@
 <p align="left">
   
   <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </code>
+  <code> <img height="50" src="https://icons8.com/icon/cdYUlRaag9G9/docker.png"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
