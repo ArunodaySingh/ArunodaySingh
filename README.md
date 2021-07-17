@@ -49,12 +49,12 @@
   
   <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </code>
-  <code> <img height="50" src="https://icons8.com/icon/cdYUlRaag9G9/docker.png"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/docker.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/linux.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/sqlite.png"> </code>
+  <code> <img height="50" src="https://img.icons8.com/color/48/000000/mysql.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
