@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 🚀 About Me:
-MERN stack enthusiast and tech innovator.
+MERN stack enthusiast and tech innovator.<br>
 Pursuing MCA at Lovely Professional University.
 
 💻 Skills:
@@ -46,24 +46,24 @@ DevOps: Git (Version Control System), GitHub, Microsoft Azure<br>
 Operating System: Windows, Linux<br>
 
 🌐 Experience:
-Full Stack Developer Intern, Lovely Professional University.
-Tech Intern, GroupM Nexus (Current).
+Full Stack Developer Intern, Lovely Professional University.<br>
+Tech Intern, GroupM Nexus (Current).<br>
 
 📚 Education:
-MCA, Lovely Professional University (Expected Graduation: 2024).
-BCA, Shri Ramswaroop Memorial College of Engineering and Management (2021).
+MCA, Lovely Professional University (Expected Graduation: 2024).<br>
+BCA, Shri Ramswaroop Memorial College of Engineering and Management (2021).<br>
 
 🤓 Interests:
-Passionate about programming, and continuous learning.
-Enjoys cricket and family time.
+Passionate about programming, and continuous learning.<br>
+Enjoys cricket and family time.<br>
 
 🌟 Motivated and Results-Oriented:
-Seeking full-time employment or contract opportunities.
-Open to relocation.
-Eager to take on new challenges and learn.
+Seeking full-time employment or contract opportunities.<br>
+Open to relocation.<br>
+Eager to take on new challenges and learn.<br>
 
 📧 Contact:
-Feel free to reach out for more details or discussions.
+Feel free to reach out for more details or discussions.<br>
 Thank you for your time and consideration. Looking forward to connecting! 👋🏽🔧✨<br><br><br>
  
 
