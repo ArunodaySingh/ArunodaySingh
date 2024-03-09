@@ -33,14 +33,38 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **E-Gold Management System **<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [CodeLogn](https://codelogn.com/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+🚀 About Me:
+MERN stack enthusiast and tech innovator.
+Pursuing MCA at Lovely Professional University.
+
+💻 Skills:
+Programming Languages: C/C++, Java, JavaScript (ES6), Python
+Web Technologies: HTML, CSS, SASS, Bootstrap, Tailwind, Node.js, React.js, Express.js
+Tools: Microsft PowerApps, Microsft Power Automate, Microsoft PowerBI
+Data Management: MySQL, MongoDB, Firebase
+DevOps: Git (Version Control System), GitHub, Microsoft Azure
+Operating System: Windows, Linux
+
+🌐 Experience:
+Full Stack Developer Intern, Lovely Professional University.
+Tech Intern, Group Nexus (Current).
+
+📚 Education:
+MCA, Lovely Professional University (Expected Graduation: 2024).
+BCA, Shri Ramswaroop Memorial College of Engineering and Management (2021).
+
+🤓 Interests:
+Passionate about programming, and continuous learning.
+Enjoys cricket and family time.
+
+🌟 Motivated and Results-Oriented:
+Seeking full-time employment or contract opportunities.
+Open to relocation.
+Eager to take on new challenges and learn.
+
+📧 Contact:
+Feel free to reach out for more details or discussions.
+Thank you for your time and consideration. Looking forward to connecting! 👋🏽🔧✨<br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
