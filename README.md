@@ -47,7 +47,7 @@ Operating System: Windows, Linux<br>
 
 🌐 Experience:
 Full Stack Developer Intern, Lovely Professional University.
-Tech Intern, Group Nexus (Current).
+Tech Intern, GroupM Nexus (Current).
 
 📚 Education:
 MCA, Lovely Professional University (Expected Graduation: 2024).
