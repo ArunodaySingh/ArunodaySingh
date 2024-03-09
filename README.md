@@ -38,12 +38,12 @@ MERN stack enthusiast and tech innovator.
 Pursuing MCA at Lovely Professional University.
 
 💻 Skills:
-Programming Languages: C/C++, Java, JavaScript (ES6), Python
-Web Technologies: HTML, CSS, SASS, Bootstrap, Tailwind, Node.js, React.js, Express.js
-Tools: Microsft PowerApps, Microsft Power Automate, Microsoft PowerBI
-Data Management: MySQL, MongoDB, Firebase
-DevOps: Git (Version Control System), GitHub, Microsoft Azure
-Operating System: Windows, Linux
+Programming Languages: C/C++, Java, JavaScript (ES6), Python <br>
+Web Technologies: HTML, CSS, SASS, Bootstrap, Tailwind, Node.js, React.js, Express.js<br>
+Tools: Microsft PowerApps, Microsft Power Automate, Microsoft PowerBI<br>
+Data Management: MySQL, MongoDB, Firebase<br>
+DevOps: Git (Version Control System), GitHub, Microsoft Azure<br>
+Operating System: Windows, Linux<br>
 
 🌐 Experience:
 Full Stack Developer Intern, Lovely Professional University.
