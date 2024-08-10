@@ -33,8 +33,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-🚀 About Me:
-Building CodeLogn! 🚀<br>
+🚀 About Me:<br>
 
 I am a Software Engineer at GroupM and completed my Master's from LPU.<br>
 
