@@ -41,7 +41,7 @@ I have interned at GroupM in the Tech team.<br>
 
 I like to explore new things and in this journey, I have created a Tech community with over 10k+ followers.<br>
 
-💻 Skills:
+💻 Skills: <br>
 Programming Languages: C/C++, Java, JavaScript (ES6), Python <br>
 Web Technologies: HTML, CSS, SASS, Bootstrap, Tailwind, Node.js, React.js, Express.js<br>
 Tools: Microsft PowerApps, Microsft Power Automate, Microsoft PowerBI<br>
@@ -49,12 +49,14 @@ Data Management: MySQL, MongoDB, Firebase<br>
 DevOps: Git (Version Control System), GitHub, Microsoft Azure<br>
 Operating System: Windows, Linux<br>
 
-🌐 Experience:
+🌐 Experience: <br>
+Software Engineer, GroupM. <br>
+Tech Intern, GroupM.<br>
 Full Stack Developer Intern, Lovely Professional University.<br>
-Tech Intern, GroupM Nexus (Current).<br>
+
 
 📚 Education:
-MCA, Lovely Professional University (Expected Graduation: 2024).<br>
+MCA, Lovely Professional University (2024).<br>
 BCA, Shri Ramswaroop Memorial College of Engineering and Management (2021).<br>
 
 🤓 Interests:
