@@ -34,8 +34,13 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 🚀 About Me:
-MERN stack enthusiast and tech innovator.<br>
-Pursuing MCA at Lovely Professional University.
+Building CodeLogn! 🚀<br>
+
+I am a Software Engineer at GroupM and completed my Master's from LPU.<br>
+
+I have interned at GroupM in the Tech team.<br>
+
+I like to explore new things and in this journey, I have created a Tech community with over 10k+ followers.<br>
 
 💻 Skills:
 Programming Languages: C/C++, Java, JavaScript (ES6), Python <br>
