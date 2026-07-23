@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.linkedin.com/in/arunodaysingh1/overlay/background-photo/" height="200"/>
+  <img src="https://in.linkedin.com/in/arunodaysingh1" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arunoday Singh</h1>
