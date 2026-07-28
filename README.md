@@ -1,96 +1,141 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arunoday Singh</h1>
-<h3 align="center">Software Engineer | AI & Data Pipeline Enthusiast | Blogger | YouTuber</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/arunodaysingh1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Arunoday-Singh/100011659000704/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arunoday_Singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arunodaysingh137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@arunodaysingh137" height="30" width="40" /></a>
-<a href="https://arunodayportfolio.lovable.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/homeassistant.svg" alt="Arunoday Singh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arunodaysingh137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Arunoday_Singh" height="30" width="40" /></a>
-<a href="mailto:arunodaysingh137@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>
-    I'm <b>Arunoday Singh</b>, a Software Engineer at <b>Choreograph (WPP)</b>.<br>
-    A <b>Backend Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> passionate about <b>AI pipelines, data automation</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;and building systems that <b>scale</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>deliver real impact</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">.
-  </em>
-  <br><br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Arunoday%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Pipeline%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArunodaySingh&label=Profile%20views&color=0e75b6&style=flat" alt="Arunoday_Singh" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<a href="https://www.linkedin.com/in/arunodaysingh1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arunodaysingh137@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://arunodayportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/arunodaysingh137"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arunodaysingh137"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+![Profile Views](https://komarev.com/ghpvc/?username=ArunodaySingh&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-🚀 **About Me:**
-
-I'm a Software Engineer at Choreograph (WPP), building backend services, REST APIs, and LLM-powered data pipelines at scale. I completed my Master's (MCA) from Lovely Professional University.
-
-I've built automated data pipelines integrating the Google Ads API, engineered LLM workflows using LangChain and OpenAI, and developed full-stack features used by 5,000+ users across global teams.
-
-I also run a Tech community with **10k+ followers** and love sharing what I learn along the way.
-
-💻 **Skills:**
-
-- **Languages:** C/C++, JavaScript (ES6), Python
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs, Microservices
-- **Frontend:** React.js, HTML, CSS
-- **Databases:** MySQL, MongoDB, PostgreSQL, BigQuery
-- **AI / Automation:** OpenAI APIs, LangChain, LLM Pipelines, Prompt Engineering
-- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Git, GitHub
-- **Other Tools:** Microsoft PowerApps, Power Automate, Power BI
-
-🌐 **Experience:**
-
-- Software Engineer — Choreograph (WPP), Gurugram *(Jan 2024 – Present)*
-- Software Engineering Intern — Lovely Professional University *(Jun 2023 – Nov 2023)*
-
-📚 **Education:**
-
-- MCA — Lovely Professional University *(2024)*
-- BCA — Shri Ramswaroop Memorial College *(2021)*
-
-🏆 **Achievements:**
-
-- 🥇 Google Associate Cloud Engineer Certified
-- 🥉 3rd Place — Smart India Hackathon 2023
-- 📊 99th Percentile — AMCAT Examination
-- 💡 Published Patent — Deep Learning & IoT
-- 🧠 Solved 200+ DSA problems
-
-🤓 **Interests:**
-Passionate about backend engineering, AI/ML integration, and competitive programming. Enjoys cricket and spending time with family.
-
-🌟 **Open To:**
-Full-time roles in Backend Engineering, AI/Data Pipeline Engineering, or Platform Engineering. Open to relocation and remote opportunities.
-
-📧 **Contact:**
-Feel free to reach out — always happy to connect and collaborate!
-[arunodaysingh137@gmail.com](mailto:arunodaysingh137@gmail.com) 👋🏽🔧✨
+</div>
 
 <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+### 🧠 About Me
 
-<p align="left">
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/python--v1.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/git.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/linux.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
-  <code><img height="50" src="https://img.icons8.com/color/48/000000/mysql.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-</p>
+```yaml
+role: Software Engineer @ Choreograph (WPP)
+focus: Backend Systems, AI Pipelines & Data Automation
+education: MCA @ Lovely Professional University (2024)
+building: LLM-powered workflows that turn raw data into decisions
+community: Tech creator with 10k+ followers, sharing what I learn
+currently_hoping_and_hustling: true
+```
 
-<hr>
+I'm a **Backend Engineer** at heart 🛠️ who fell in love with the intersection of **AI, automation, and scalable systems**. I spend my days building REST APIs and data pipelines, and my nights exploring how LLMs can make software smarter — then writing/vlogging about it so others can learn too.
+
+<br>
+
+### 🚀 What I've Been Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💼 Choreograph (WPP)** — *Software Engineer*
+- Built backend services & REST APIs on Node.js powering large-scale workflow automation
+- Integrated the Google Ads API, cutting manual reporting effort by **~80%**
+- Engineered LLM pipelines (LangChain + OpenAI) for automated insight generation
+- Shipped full-stack features used by **5,000+ users** across global teams
+- Boosted operational efficiency by **~40%** via workflow automation systems
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 LPU** — *Software Engineering Intern*
+- Built React.js frontend components for a platform serving **200+ users**
+- Integrated REST APIs & optimized UI performance, cutting bounce rate by **~25%**
+- Collaborated across the stack on backend integration & feature delivery
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Featured Projects
+
+| Project | What it does |
+|---|---|
+| 🔹 **DigiSmart** — Automated Analytics Platform | Node.js backend + LLM-based insight pipeline; automated reporting, cut manual effort by ~80% |
+| 🔹 **Data Clean Room Platform** | FastAPI + JWT/RBAC secure multi-party data collaboration, with Snowflake-powered segmentation & activation |
+| 🔹 **Smart Street Light — Fault Detection** | ESP32-based IoT monitoring system; auto-alerts cut fault resolution time by ~80% |
+
+<br>
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java&theme=dark" />
+
+**Backend & APIs**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+**Cloud, DevOps & AI**
+<br>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArunodaySingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunodaySingh&theme=tokyonight&hide_border=true" width="38%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunodaySingh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+
+</div>
+
+<br>
+
+### 🏆 Achievements
+
+- 🥇 **Google Associate Cloud Engineer** Certified
+- 🥉 **3rd Place** — Smart India Hackathon 2023
+- 📊 **99th Percentile** — AMCAT Examination
+- 💡 **Published Patent** — Deep Learning & IoT
+- 🧠 **200+ DSA Problems** Solved
+
+<br>
+
+### 🌱 Currently
+
+- 🔭 Working on scalable **AI + data pipeline** systems at Choreograph
+- 🌱 Deepening skills in **LLM orchestration & system design**
+- 🎯 Open to **Backend, AI/Data Pipeline & Platform Engineering** roles — remote or relocation friendly
+- ⚡ Fun fact: also a cricket fan and a YouTuber/blogger sharing tech learnings
+
+<br>
+
+<div align="center">
+
+### 📬 Let's Connect
+
+Always happy to talk backend systems, AI pipelines, or your next hackathon idea.
+
+📧 **arunodaysingh137@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
