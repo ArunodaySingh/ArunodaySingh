@@ -1,6 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Arunoday%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Pipeline%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,50:80deea,100:00acc1&height=200&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header" width="100%"/>
+</picture>
+
+<a href="https://github.com/ArunodaySingh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0077B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" alt="Typing SVG" />
+  </picture>
+</a>
+
+<br>
 
 <a href="https://www.linkedin.com/in/arunodaysingh1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arunodaysingh137@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,10 +114,22 @@ I'm a **Backend Engineer** at heart 🛠️ who fell in love with the intersecti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArunodaySingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunodaySingh&theme=tokyonight&hide_border=true" width="38%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArunodaySingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ArunodaySingh&show_icons=true&theme=cobalt&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArunodaySingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ArunodaySingh&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ArunodaySingh&theme=cobalt&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunodaySingh&theme=tokyonight&hide_border=true" width="38%" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunodaySingh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunodaySingh&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunodaySingh&layout=compact&theme=cobalt&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunodaySingh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</picture>
 
 </div>
 
