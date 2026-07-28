@@ -31,7 +31,7 @@
 ### 🧠 About Me
 
 ```yaml
-role: Software Engineer @ Choreograph (WPP)
+role:  SDE @ Choreograph (WPP)
 focus: Backend Systems, AI Pipelines & Data Automation
 education: MCA @ Lovely Professional University (2024)
 building: LLM-powered workflows that turn raw data into decisions
