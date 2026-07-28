@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ArunodaySingh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=SDE+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0077B6&center=true&vCenter=true&width=600&lines=SDE+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" alt="Typing SVG" />
   </picture>
