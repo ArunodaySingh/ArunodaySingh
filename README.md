@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,50:80deea,100:00acc1&height=200&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Arunoday%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Pipeline%20Enthusiast&descAlignY=50&descSize=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,50:80deea,100:00acc1&height=200&section=header&text=Arunoday%20Singh&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Pipeline%20Enthusiast&descAlignY=50&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Arunoday%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Data%20Pipeline%20Enthusiast&descAlignY=50&descSize=16" width="100%"/>
 </picture>
 
 <a href="https://github.com/ArunodaySingh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=SDE+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0077B6&center=true&vCenter=true&width=600&lines=SDE+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Choreograph+(WPP);Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0077B6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Backend+%2B+AI+Pipeline+Enthusiast;Building+LLM-powered+Data+Systems;Always+Hoping+%26+Hustling+%F0%9F%9A%80" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -19,8 +19,7 @@
 <a href="https://www.linkedin.com/in/arunodaysingh1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arunodaysingh137@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://arunodayportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/arunodaysingh137"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arunodaysingh137"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://leetcode.com/u/arunodaysingh137/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArunodaySingh&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -31,15 +30,15 @@
 ### 🧠 About Me
 
 ```yaml
-role:  SDE @ Choreograph (WPP)
-focus: Backend Systems, AI Pipelines & Data Automation
+role: Full Stack Software Engineer @ Choreograph (WPP)
+focus: Full Stack Development, Backend Systems & AI Pipelines
 education: MCA @ Lovely Professional University (2024)
 building: LLM-powered workflows that turn raw data into decisions
 community: Tech creator with 10k+ followers, sharing what I learn
 currently_hoping_and_hustling: true
 ```
 
-I'm a **Backend Engineer** at heart 🛠️ who fell in love with the intersection of **AI, automation, and scalable systems**. I spend my days building REST APIs and data pipelines, and my nights exploring how LLMs can make software smarter — then writing/vlogging about it so others can learn too.
+I'm a **Full Stack Engineer** at heart 🛠️ who fell in love with the intersection of **AI, automation, and scalable systems**. I build end-to-end — from React frontends to Node.js/FastAPI backends and REST APIs — and my nights go into exploring how LLMs can make software smarter, then writing/vlogging about it so others can learn too.
 
 <br>
 
@@ -49,7 +48,7 @@ I'm a **Backend Engineer** at heart 🛠️ who fell in love with the intersecti
 <tr>
 <td width="50%" valign="top">
 
-**💼 Choreograph (WPP)** — *Software Engineer*
+**💼 Choreograph (WPP)** — *Full Stack Software Engineer*
 - Built backend services & REST APIs on Node.js powering large-scale workflow automation
 - Integrated the Google Ads API, cutting manual reporting effort by **~80%**
 - Engineered LLM pipelines (LangChain + OpenAI) for automated insight generation
@@ -149,7 +148,7 @@ I'm a **Backend Engineer** at heart 🛠️ who fell in love with the intersecti
 
 - 🔭 Working on scalable **AI + data pipeline** systems at Choreograph
 - 🌱 Deepening skills in **LLM orchestration & system design**
-- 🎯 Open to **Backend, AI/Data Pipeline & Platform Engineering** roles — remote or relocation friendly
+- 🎯 Open to **Full Stack, Backend & AI/Data Pipeline Engineering** roles — remote or relocation friendly
 - ⚡ Fun fact: also a cricket fan and a YouTuber/blogger sharing tech learnings
 
 <br>
